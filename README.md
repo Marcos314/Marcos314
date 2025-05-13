@@ -1,7 +1,7 @@
 # Hi there, I’m Marcos Wesley 👋
 
 
-**Data Engineer @ GamersClub**  
+**Data Engineer @GamersClub**  
 
 🔭 I’m currently working building and maintaining data pipelines and lakehouse solutions
 
