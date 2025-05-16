@@ -9,8 +9,6 @@
 
 💬 Ask me about Python, SQL, ETL/ELT, CDC with DMS, and Airflow
 
-⚡ Fun fact: TODO  
-
 ---
 
 ## 🛠️ Tech Stack
